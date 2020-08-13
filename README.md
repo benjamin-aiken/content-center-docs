@@ -1,1 +1,3 @@
-# content-center-docs
+# Headline
+
+> An awesome project.
